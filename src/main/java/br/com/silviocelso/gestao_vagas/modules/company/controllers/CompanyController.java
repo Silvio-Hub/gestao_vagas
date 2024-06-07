@@ -1,4 +1,4 @@
-package br.com.silviocelso.gestao_vagas.modules.company;
+package br.com.silviocelso.gestao_vagas.modules.company.controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 
